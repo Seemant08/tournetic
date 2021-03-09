@@ -16,7 +16,7 @@
 }
 .navbar-nav > li > a {
     color: #000 !important;
-    font-size: 15px;
+    font-size: 14px;
     font-family: 'Montserrat', sans-serif;
     font-weight: 600;
     text-transform: uppercase;
@@ -24,7 +24,7 @@
     -moz-transition: all 0.2s ease-in-out;
     -webkit-transition: all 0.2s ease-in-out;
     -o-transition: all 0.2s ease-in-out;
-    padding: 0px 15px!important;
+    padding: 0px 12px!important;
 }
 .navbar-dark .navbar-toggler{background:#000;}
 #main-slider {
