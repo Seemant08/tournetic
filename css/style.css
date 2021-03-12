@@ -399,3 +399,9 @@ ul.nav-tabs li a{color: #fff;padding: 10px;background: #1761a0;border: 2px solid
 	.foot-boxs > p{margin:10px;}
 	#slider-overlay{height:auto;}
 }
+@media (max-width:736px){
+div#sidebar {
+    flex: 0 0 100%;
+    max-width: 100%;
+	}
+}
