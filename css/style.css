@@ -11,7 +11,9 @@ img {vertical-align: middle;}
   position: relative;
   margin: auto;
 }
-
+.mySlides.fade{
+    opacity: 1;
+}
 /* Next & previous buttons */
 .prev, .next {
   cursor: pointer;
