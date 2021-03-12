@@ -3,6 +3,13 @@
     top: 0;
     right: 0;
 }
+.whatsapp{position: fixed;
+    top: 0;
+    LEFT: 0;
+    width: 200px;
+    z-index: 999;
+    margin-top: 130px;}
+.whatsapp img{width:80px;border-radius:4px;}
 #collapsibleNavbar{position:relative;}
 .sub_query a{background: #ee161f;
     padding: 5px;
