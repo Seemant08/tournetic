@@ -3,6 +3,9 @@
     top: 0;
     right: 0;
 }
+div#sidebar{    flex: 0 0 33.333333%;
+	max-width: 33.333333%;}
+aside#sidebar.col-md-4{max-width:100%;}
 .whatsapp{position: fixed;
     top: 0;
     LEFT: 0;
