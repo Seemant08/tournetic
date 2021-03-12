@@ -104,7 +104,7 @@ aside#sidebar.col-md-4{max-width:100%;}
 .whatsapp{position: fixed;
     top: 0;
     LEFT: 0;
-    width: 200px;
+ 
     z-index: 999;
     margin-top: 130px;}
 .whatsapp img{width:80px;border-radius:4px;}
