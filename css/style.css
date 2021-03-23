@@ -16,8 +16,9 @@ ul.sub-menu{display:none;position: absolute;
     left: 12px;}
 ul.sub-menu li.nav-item a {
     color: #000!important;
-	border-bottom: 1px solid #ff
+	border-bottom: 1px solid #fff;
 }
+ul.sub-menu li.nav-item a:hover{text-decoration:underline;}
 li.nav-item{position:relative;}
 li.nav-item:hover .sub-menu{display:block;}
 /* Slideshow container */
