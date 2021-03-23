@@ -6,7 +6,20 @@
 .main-contents{padding-top:3em;}
 body{background:#FFFFcc!important;}
 img {vertical-align: middle;}
-
+ul.sub-menu{display:none;position: absolute;
+    list-style: none;
+    color: #000;
+    z-index: 999;
+    background: #ffffcc;
+    padding: 5px 5px;
+    width: 92%;
+    left: 12px;}
+ul.sub-menu li.nav-item a {
+    color: #000!important;
+	border-bottom: 1px solid #ff
+}
+li.nav-item{position:relative;}
+li.nav-item:hover .sub-menu{display:block;}
 /* Slideshow container */
 .slideshow-container {
   max-width: 1000px;
